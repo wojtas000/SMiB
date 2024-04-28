@@ -7,3 +7,4 @@ seaborn
 pmdarima
 scikit-learn
 notebook
+pyplot
